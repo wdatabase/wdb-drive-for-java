@@ -1,4 +1,4 @@
-package com.github.wdatabase.wdbdrive;
+package io.github.wdatabase.wdbdrive;
 
 public class UpdateDataReq {
     private String key;
